@@ -1,0 +1,11 @@
+beautifulsoup4==4.11.1
+lxml==4.9.3
+numpy==1.25.1
+openpyxl==3.1.2
+pandas==1.5.2
+psycopg2==2.9.6
+requests==2.28.1
+sqlalchemy==1.4.39
+tqdm==4.64.1
+ipykernel==6.15.0
+ipywidgets==7.6.5
